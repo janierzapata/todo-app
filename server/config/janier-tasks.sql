@@ -21,8 +21,8 @@ SET time_zone = "+00:00";
 -- Base de datos: `janier-tasks`
 --
 
-CREATE DATABASE IF NOT EXISTS `janierTasks` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `janierTasks`;
+CREATE DATABASE IF NOT EXISTS `janier-tasks` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `janier-tasks`;
 
 -- --------------------------------------------------------
 
